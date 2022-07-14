@@ -120,7 +120,7 @@ main h2 {
 
 main p {
     text-indent: 30px;
-    line-height: 1.3em;
+    line-height: 1.8em;
     font-family: var(--fonte-padrao);
     text-align: justify;
 }
